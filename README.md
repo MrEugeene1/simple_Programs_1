@@ -18,4 +18,3 @@ Expected output:
 17
 ```
 
-# simple_Programs_1
